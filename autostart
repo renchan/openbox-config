@@ -1,0 +1,6 @@
+#Setting wallpaper with feh
+feh --bg-scale ~/Pictures/iu $
+
+#Launching fcitx
+fcitx -r $
+
